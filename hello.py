@@ -1,1 +1,1 @@
-print("Hello from GitHub Actions CI pipeline!")
+print("Hello KubeIT")
